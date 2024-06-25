@@ -19,7 +19,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: rgb(4, 4, 35);
+    background-color: rgb(101, 101, 108);
 }
 
 
@@ -32,7 +32,7 @@ body{
     margin: 0 400px;
     min-width: 500px;
     max-width: 1000px;
-    background-image: linear-gradient(aqua, rgb(249, 146, 164));
+    background-image: linear-gradient(rgb(11, 81, 81), rgb(207, 15, 47));
     border-radius: 20px;
     padding: 20px;
 }
@@ -82,7 +82,7 @@ header .input-section {
 .input {
     border-radius: 0.5rem;
     height: 3rem;
-    border-width: 2px black solid;
+    border-width: 2px rgb(208, 94, 94) solid;
     flex-shrink: 1;
     padding: 0rem 1rem;
     font-size: 1.2rem;
